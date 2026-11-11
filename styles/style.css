@@ -247,6 +247,7 @@ ol {
     flex-direction: column;
     align-items: start;
     justify-content: start;
+    border: none;
 }
 
 .search-form__fieldset-title {
@@ -278,10 +279,6 @@ ol {
     gap: 15px;
     align-items: center;
     justify-content: start;
-}
-
-.search-form__fieldset {
-    border: none;
 }
 
 .search-form__textfield {
